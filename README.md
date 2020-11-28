@@ -1,7 +1,7 @@
-# Train a traffic light classifier using Tensorflow Object Detection API
-![tensorboard](docs/training_traffic_light_detection.gif)
+# Tensorflow Object Detection API for Gun detectiom
+
 ## Objective
-Train an object detection model to detect red traffic light. The frozed graph is then used for inference to control brake/throttle of an autonomous vehicle to stop the car at red traffic light and move under green light.
+Train an object detection model to detect guns. 
 
 ## Constraints
 * The machine used for inference is poor and therefore the computation should be very efficient
